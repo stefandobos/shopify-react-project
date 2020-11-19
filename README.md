@@ -2,9 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+Link for live site:
+https://stefandobos.github.io/shopify-react-project/
 
 ### `npm start`
 
