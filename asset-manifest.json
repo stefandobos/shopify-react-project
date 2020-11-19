@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopify-react-project/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/shopify-react-project/static/js/main.2829f5f5.chunk.js",
+    "main.js.map": "/shopify-react-project/static/js/main.2829f5f5.chunk.js.map",
+    "runtime-main.js": "/shopify-react-project/static/js/runtime-main.7a86ede1.js",
+    "runtime-main.js.map": "/shopify-react-project/static/js/runtime-main.7a86ede1.js.map",
+    "static/js/2.e7682e38.chunk.js": "/shopify-react-project/static/js/2.e7682e38.chunk.js",
+    "static/js/2.e7682e38.chunk.js.map": "/shopify-react-project/static/js/2.e7682e38.chunk.js.map",
+    "static/js/3.52f83ff0.chunk.js": "/shopify-react-project/static/js/3.52f83ff0.chunk.js",
+    "static/js/3.52f83ff0.chunk.js.map": "/shopify-react-project/static/js/3.52f83ff0.chunk.js.map",
+    "index.html": "/shopify-react-project/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/shopify-react-project/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e7682e38.chunk.js.LICENSE.txt": "/shopify-react-project/static/js/2.e7682e38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a86ede1.js",
+    "static/js/2.e7682e38.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2829f5f5.chunk.js"
+  ]
+}
